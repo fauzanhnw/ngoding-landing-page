@@ -1,5 +1,6 @@
 # ngoding-landing-page
 
+Web landing page aplikasi belajar online. pembuatan web menggunakan Laravel.
 
 <a href:ngoding.my-board.org>ngoding.my-board.org</a>
 
